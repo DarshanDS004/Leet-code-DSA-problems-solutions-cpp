@@ -1,3 +1,5 @@
+
+/*
 class Solution {
 public:
 
@@ -45,4 +47,34 @@ public:
        
         
     }
+};
+*/
+class Solution {
+public:
+
+bool isStrictlyIncreasing(vector<int>& nums, int start, int end) {
+    for (int i = start; i < end; i++)
+        if (nums[i] >= nums[i + 1]) return false;
+    return true;
+}
+
+bool isStrictlyDecreasing(vector<int>& nums, int start, int end) {
+    for (int i = start; i < end; i++)
+        if (nums[i] <= nums[i + 1]) return false;
+    return true;
+}
+
+bool isTrionic(vector<int>& nums) {
+    int n = nums.size();
+    for (int p = 1; p < n - 2; p++) {
+        if (!isStrictlyIncreasing(nums, 0, p)) continue;
+
+        int q = p + 1;
+        while (q < n - 1 && nums[q] < nums[q - 1]) {
+            if (isStrictlyIncreasing(nums, q, n - 1)) return true;
+            q++;
+        }
+    }
+    return false;
+}
 };
