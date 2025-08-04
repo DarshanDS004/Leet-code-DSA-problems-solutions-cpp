@@ -43,4 +43,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
