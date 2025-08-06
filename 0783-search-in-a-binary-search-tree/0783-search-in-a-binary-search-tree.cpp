@@ -9,6 +9,8 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
+ /*
 class Solution {
 public:
     TreeNode* searchBST(TreeNode* root, int val) {
@@ -28,6 +30,35 @@ public:
             st.push(curr->left);
         }
         return nullptr;
+
+    }
+};
+
+*/
+
+class Solution {
+public:
+    TreeNode* search(TreeNode* root, int val)
+    {
+      if(root==nullptr||root->val==val)
+        return root;
+        if(root->val==val)
+        return root;
+        if(val<root->val)
+        {
+         return search(root->left,val);
+        }
+        else
+        {
+        return search(root->right,val);
+        }
+        
+
+    }
+    TreeNode* searchBST(TreeNode* root, int val) {
+        return search(root,val);
+       
+        
 
     }
 };
