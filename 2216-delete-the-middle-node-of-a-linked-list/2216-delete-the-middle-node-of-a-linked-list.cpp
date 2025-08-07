@@ -8,10 +8,14 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
- /*
+ 
 class Solution {
 public:
     ListNode* deleteMiddle(ListNode* head) {
+
+    if (!head || !head->next) {
+    return nullptr;
+   }
         ListNode*curr=head;
       
         int count=0;
@@ -23,22 +27,23 @@ public:
         }
         int mid=count/2;
         curr=head;
-       curr = head;
+         curr = head;
        
         for (int i = 0; i < mid - 1; i++) {
             curr = curr->next;
         }
         
             ListNode*middle=curr->next;
-            middle->next=curr->next->next;
+            curr->next=curr->next->next;
             delete middle;
             return head;
 
         
     }
 };
-*/
 
+
+/*
 class Solution {
 public:
     ListNode* deleteMiddle(ListNode* head) {
@@ -67,3 +72,4 @@ public:
         return head;
     }
 };
+*/
