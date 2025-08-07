@@ -8,29 +8,61 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+ /*
+class Solution {
+public:
+    ListNode* deleteMiddle(ListNode* head) {
+        ListNode*curr=head;
+      
+        int count=0;
+        while(curr!=nullptr)
+        {
+            count++;
+            curr=curr->next;
+
+        }
+        int mid=count/2;
+        curr=head;
+       curr = head;
+       
+        for (int i = 0; i < mid - 1; i++) {
+            curr = curr->next;
+        }
+        
+            ListNode*middle=curr->next;
+            middle->next=curr->next->next;
+            delete middle;
+            return head;
+
+        
+    }
+};
+*/
 
 class Solution {
 public:
     ListNode* deleteMiddle(ListNode* head) {
-        if (!head || !head->next)
+        if (!head || !head->next) {
             return nullptr;
-
-        int total = 0;
-        ListNode* node = head;
-        while (node) {
-            total++;
-            node = node->next;
         }
 
-        int middle = total / 2;
-        node = head;
+        ListNode* curr = head;
+        int count = 0;
 
-        for (int i = 0; i < middle - 1; ++i) {
-            node = node->next;
+        while (curr != nullptr) {
+            count++;
+            curr = curr->next;
         }
 
-        // Just skip the middle node; don't manually delete
-        node->next = node->next->next;
+        int mid = count / 2;
+        curr = head;
+        for (int i = 0; i < mid - 1; i++) {
+            curr = curr->next;
+        }
+
+        ListNode* middle = curr->next;
+        curr->next = curr->next->next;
+        delete middle;
 
         return head;
     }
