@@ -11,6 +11,7 @@
 
 
  //Brute force
+ /*
 class Solution {
 public:
     ListNode* rotateRight(ListNode* head, int k) {
@@ -42,15 +43,33 @@ public:
         
     }
 };
+*/
 
 
 
 
-/*
 class Solution {
 public:
     ListNode* rotateRight(ListNode* head, int k) {
-        
+        if(head==nullptr||head->next==nullptr)
+        return head;
+        int n=1;
+        ListNode*temp=head;
+        while(temp->next!=nullptr)
+        {
+            n++;
+            temp=temp->next;
+        }
+       k=k%n;
+        temp->next=head;
+        ListNode*newhead=head;
+        for(int i=1;i<n-k;i++)
+        {
+            newhead=newhead->next;
+        }
+      ListNode*  newtail=newhead->next;
+        newhead->next=nullptr;
+        return newtail;
     }
 };
-*/
+
