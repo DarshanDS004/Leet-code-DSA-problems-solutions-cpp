@@ -9,6 +9,7 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+ /*
 class Solution {
 public:
     TreeNode* invertTree(TreeNode* root) {
@@ -38,8 +39,22 @@ public:
         
         return root;
     }
-        
+};
+*/
 
-        
-    
+class Solution {
+public:
+    TreeNode* invertTree(TreeNode* root) {
+        if (root == nullptr) return nullptr;
+
+        // Recursively invert left and right subtrees
+        TreeNode* leftInverted = invertTree(root->left);
+        TreeNode* rightInverted = invertTree(root->right);
+
+        // Swap the left and right children
+        root->left = rightInverted;
+        root->right = leftInverted;
+
+        return root;
+    }
 };
