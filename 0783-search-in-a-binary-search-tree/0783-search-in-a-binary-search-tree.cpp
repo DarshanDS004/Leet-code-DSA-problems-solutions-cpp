@@ -10,7 +10,7 @@
  * };
  */
 
- /*
+ 
 class Solution {
 public:
     TreeNode* searchBST(TreeNode* root, int val) {
@@ -34,8 +34,8 @@ public:
     }
 };
 
-*/
 
+/*
 class Solution {
 public:
     TreeNode* search(TreeNode* root, int val)
@@ -62,3 +62,4 @@ public:
 
     }
 };
+*/
