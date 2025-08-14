@@ -8,6 +8,9 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
+ // BRUTE FORCE
+ /*
 class Solution {
 public:
     ListNode* deleteDuplicates(ListNode* head) {
@@ -36,3 +39,42 @@ public:
         
     }
 };
+*/
+
+
+class Solution {
+public:
+    ListNode* deleteDuplicates(ListNode* head) {
+        if (!head || !head->next)
+            return head;
+
+        map<int, pair<int, ListNode*>> mp;
+        ListNode* temp = head;
+
+        // First pass: count occurrences
+        while (temp) {
+            mp[temp->val].first++;
+            mp[temp->val].second = temp;
+            temp = temp->next;
+        }
+
+        // Second pass: build new list with only values that appeared once
+        ListNode dummy(0);
+        ListNode* res = &dummy;
+        temp = head;
+
+        while (temp) {
+            if (mp[temp->val].first == 1) {
+                res->next = temp;
+                res = res->next;
+            }
+            temp = temp->next;
+        }
+
+        res->next = nullptr;
+        return dummy.next;
+    }
+};
+
+
+
