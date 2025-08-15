@@ -1,3 +1,4 @@
+/*
 class Solution {
 public:
     int mostFrequentEven(vector<int>& nums) {
@@ -26,5 +27,31 @@ public:
       return frq_ele;
 
         
+    }
+};
+
+*/
+
+class Solution {
+public:
+    int mostFrequentEven(vector<int>& nums) {
+        unordered_map<int,int> mp;
+        int maxi = INT_MIN;
+        int mini = INT_MAX;
+
+        for(auto x:nums){
+            if(x%2 == 0){
+                mp[x]++;
+                maxi = max(maxi,mp[x]);
+            }
+        }
+        for(auto x:mp){
+            if(maxi == x.second){
+                mini = min(mini,x.first);
+            }
+        }
+        if(maxi == INT_MIN)
+            return -1;
+        return mini == INT_MAX ? 0 : mini;
     }
 };
