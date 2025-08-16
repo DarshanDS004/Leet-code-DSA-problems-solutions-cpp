@@ -17,6 +17,7 @@ public:
 };
 */
 
+/*
 class Solution {
 public:
     int maximum69Number(int num) {
@@ -36,5 +37,22 @@ public:
         }
 
         return num + 3 * (i / 10);
+    }
+};
+
+*/
+class Solution {
+public:
+    int maximum69Number (int num) {
+        int temp = num, pos = -1, idx = 0;
+        while (temp > 0) {
+            if (temp % 10 == 6)
+             pos = idx;
+            temp /= 10;
+            idx++;
+        }
+        if (pos != -1)
+         num += 3 * pow(10, pos);
+        return num;
     }
 };
