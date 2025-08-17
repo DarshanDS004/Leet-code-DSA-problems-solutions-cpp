@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0013-roman-to-integer) |
+| [0205-isomorphic-strings](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0205-isomorphic-strings) |
 | [0496-next-greater-element-i](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0496-next-greater-element-i) |
 | [0940-fruit-into-baskets](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0966-binary-subarrays-with-sum) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0013-roman-to-integer) |
+| [0205-isomorphic-strings](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0205-isomorphic-strings) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [3379-score-of-a-string](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3379-score-of-a-string) |
 ## Linked List
