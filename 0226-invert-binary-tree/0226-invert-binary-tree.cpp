@@ -9,52 +9,24 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
- /*
 class Solution {
 public:
     TreeNode* invertTree(TreeNode* root) {
         if(root==nullptr)
         return root;
-        queue<TreeNode*>q;
-        q.push(root);
-        while(!q.empty())
+        stack<TreeNode*>st;
+        st.push(root);
+        while(!st.empty())
         {
-           
-            
-                TreeNode*curr=q.front();
-                q.pop();
-                
-                  TreeNode* temp = curr->left;
-                  curr->left = curr->right;
-                  curr->right = temp;
-                
-              
-                
-                if(curr->left)
-                q.push(curr->left);
-                if(curr->right)
-                q.push(curr->right);
-
-            }
+            TreeNode*curr=st.top();
+            st.pop();
+            if(curr->left)
+            st.push(curr->left);
+             if(curr->right)
+            st.push(curr->right);
+            swap(curr->left,curr->right);
+        }
+        return root;
         
-        return root;
-    }
-};
-*/
-
-class Solution {
-public:
-    TreeNode* invertTree(TreeNode* root) {
-        if (root == nullptr) return nullptr;
-
-        // Recursively invert left and right subtrees
-        TreeNode* leftInverted = invertTree(root->left);
-        TreeNode* rightInverted = invertTree(root->right);
-
-        // Swap the left and right children
-        root->left = rightInverted;
-        root->right = leftInverted;
-
-        return root;
     }
 };
