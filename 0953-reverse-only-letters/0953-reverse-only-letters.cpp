@@ -29,6 +29,7 @@ public:
     }
 };
 */
+/*
 class Solution {
 public:
     string reverseOnlyLetters(string s) {
@@ -47,6 +48,29 @@ public:
             if (isalpha(s[i])) {
                 s[i] = letters[j--];  
         }
+        }
+
+        return s;
+    }
+};
+*/
+
+class Solution {
+public:
+    string reverseOnlyLetters(string s) {
+        string letters;
+
+        for (char c : s) {
+            if (isalpha(c)) {
+                letters.push_back(c);
+            }
+        }
+
+        int j = letters.length() - 1;  
+        for (int i = 0; i < s.length(); i++) {
+            if (isalpha(s[i])) {
+                s[i] = letters[j--];  
+            }
         }
 
         return s;
