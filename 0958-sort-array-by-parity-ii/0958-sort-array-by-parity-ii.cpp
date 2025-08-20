@@ -1,4 +1,4 @@
-/*
+
 class Solution {
 public:
     vector<int> sortArrayByParityII(vector<int>& nums) {
@@ -31,7 +31,7 @@ public:
             }
             else
             {
-                nums[i]=nums[k];
+                nums[i]=res[k];
                 k++;
             }
         }
@@ -40,8 +40,8 @@ public:
         
     
 };
-*/
 
+/*
 class Solution {
 public:
     vector<int> sortArrayByParityII(vector<int>& nums) {
@@ -74,3 +74,4 @@ public:
         return nums;
     }
 };
+*/
