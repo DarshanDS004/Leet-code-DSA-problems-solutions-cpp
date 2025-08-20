@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0283-move-zeroes) |
 | [0953-reverse-only-letters](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0953-reverse-only-letters) |
+| [0958-sort-array-by-parity-ii](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Array
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0724-find-pivot-index) |
 | [0940-fruit-into-baskets](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0940-fruit-into-baskets) |
+| [0958-sort-array-by-parity-ii](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0958-sort-array-by-parity-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0966-binary-subarrays-with-sum) |
 | [0978-valid-mountain-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1019-squares-of-a-sorted-array) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0215-kth-largest-element-in-an-array) |
+| [0958-sort-array-by-parity-ii](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1019-squares-of-a-sorted-array) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
