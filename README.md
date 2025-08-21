@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0328-odd-even-linked-list) |
+| [1072-next-greater-node-in-linked-list](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1072-next-greater-node-in-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0966-binary-subarrays-with-sum) |
 | [0978-valid-mountain-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1019-squares-of-a-sorted-array) |
+| [1072-next-greater-node-in-linked-list](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1072-next-greater-node-in-linked-list) |
 | [1603-running-sum-of-1d-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1603-running-sum-of-1d-array) |
 | [2048-build-array-from-permutation](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2048-build-array-from-permutation) |
 | [2486-most-frequent-even-element](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2486-most-frequent-even-element) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0496-next-greater-element-i) |
+| [1072-next-greater-node-in-linked-list](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1072-next-greater-node-in-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0496-next-greater-element-i) |
+| [1072-next-greater-node-in-linked-list](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1072-next-greater-node-in-linked-list) |
 ## String Matching
 |  |
 | ------- |
