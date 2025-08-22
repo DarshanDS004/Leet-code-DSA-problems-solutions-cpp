@@ -8,6 +8,7 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
 class Solution {
 public:
 
@@ -50,3 +51,31 @@ public:
         
     }
 };
+
+
+/*
+class Solution {
+public:
+ vector<int> nextLargerNodes(ListNode* head) {
+  
+  ListNode*curr=head;
+  int n;
+    while(curr!=nullptr)
+   {
+    n++;
+    curr=curr->next;
+   }
+   vector<int>res(n,0);
+   stack<pair<ListNode*,int>>st;
+   curr=head;
+   while(curr!=nullptr)
+   {
+    
+   }
+
+
+
+ }
+};
+
+*/
