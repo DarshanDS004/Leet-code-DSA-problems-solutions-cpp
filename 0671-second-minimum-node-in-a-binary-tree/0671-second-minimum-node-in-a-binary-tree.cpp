@@ -67,3 +67,37 @@ public:
         return *it;
     }
 };
+
+
+// #include <vector>
+// #include <climits>
+
+// class Solution {
+// public:
+//     void inorder(TreeNode* root, std::vector<int>& vals) {
+//         if (!root) return;
+//         inorder(root->left, vals);
+//         vals.push_back(root->val);
+//         inorder(root->right, vals);
+//     }
+
+//     int findSecondMinimumValue(TreeNode* root) {
+//         std::vector<int> vals;
+//         inorder(root, vals);
+
+//         int min_val = INT_MAX;
+//         long long sec_min = LLONG_MAX;
+
+//         for (int val : vals) {
+//             if (val < min_val) {
+//                 sec_min = min_val;
+//                 min_val = val;
+//             } else if (val > min_val && val < sec_min) {
+//                 sec_min = val;
+//             }
+//         }
+
+//         // If there's no second minimum, return -1
+//         return (sec_min == LLONG_MAX) ? -1 : static_cast<int>(sec_min);
+//     }
+// };
