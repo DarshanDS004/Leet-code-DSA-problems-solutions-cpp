@@ -18,7 +18,7 @@ public:
          {
             if(value==max_value)
             {
-                count+=value;
+                count+=value; 
             }
          }
          return count;
