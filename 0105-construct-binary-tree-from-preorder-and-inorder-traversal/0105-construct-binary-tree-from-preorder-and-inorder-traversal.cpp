@@ -61,7 +61,7 @@ TreeNode*construct(vector<int>&pre,int start,int end)
     int pos=inmp[val];
     root->left=construct(pre,start,pos-1);
     root->right=construct(pre,pos+1,end);
-return  root;
+    return  root;
 }
  TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
         if(preorder.size()==0||inorder.size()==0)
