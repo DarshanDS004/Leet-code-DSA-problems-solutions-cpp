@@ -11,36 +11,32 @@
  */
 class Solution {
 public:
-    int findPos(vector<int>& in, int val) {
-        for (int i = 0; i < in.size(); i++) {
-            if (in[i] == val) return i;
-        }
-        return -1; // should not happen
+
+  int findroot(vector<int>&in ,int val)
+  {
+    int n=in.size();
+    for(int i=0;i<n;i++)
+    {
+        if(val==in[i])
+        return i;
     }
+    return -1;
+  }
 
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        if (preorder.empty() || inorder.empty()) return NULL;
+        if(preorder.size()==0||inorder.size()==0)
+        return nullptr;
+        int val=preorder[0];
+        TreeNode*root=new TreeNode(val);
+        int pos=findroot(inorder,val);
+        vector<int>left(inorder.begin(),inorder.begin()+pos);
+         vector<int>right(inorder.begin()+pos+1,inorder.end());
+         vector<int>left_tree(preorder.begin()+1,preorder.begin()+1+left.size());
+         vector<int>right_tree(preorder.begin()+1+left.size(),preorder.end());
 
-        int rootVal = preorder[0];
-        TreeNode* root = new TreeNode(rootVal);
-
-        // find root index in inorder
-        int pos = findPos(inorder, rootVal);
-
-        // left part of inorder
-        vector<int> inLeft(inorder.begin(), inorder.begin() + pos);
-        // right part of inorder
-        vector<int> inRight(inorder.begin() + pos + 1, inorder.end());
-
-        // left part of preorder (skip root, take size = inLeft.size())
-        vector<int> preLeft(preorder.begin() + 1, preorder.begin() + 1 + inLeft.size());
-        // right part of preorder (remaining)
-        vector<int> preRight(preorder.begin() + 1 + inLeft.size(), preorder.end());
-
-        // recursively build
-        root->left = buildTree(preLeft, inLeft);
-        root->right = buildTree(preRight, inRight);
-
+        root->left=buildTree(left_tree,left);
+        root->right=buildTree(right_tree,right);
         return root;
     }
+  
 };
