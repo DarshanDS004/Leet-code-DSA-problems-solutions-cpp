@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0205-isomorphic-strings) |
 | [0409-longest-palindrome](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0409-longest-palindrome) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0048-rotate-image) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -223,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
