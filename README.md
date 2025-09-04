@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0342-power-of-four) |
 | [1448-maximum-69-number](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1448-maximum-69-number) |
 | [2722-prime-in-diagonal](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2722-prime-in-diagonal) |
+| [3830-find-closest-person](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3830-find-closest-person) |
 ## String
 |  |
 | ------- |
