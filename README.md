@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0342-power-of-four) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1448-maximum-69-number) |
 | [2722-prime-in-diagonal](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2722-prime-in-diagonal) |
 | [3830-find-closest-person](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3830-find-closest-person) |
