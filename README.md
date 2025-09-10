@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0496-next-greater-element-i) |
+| [0605-can-place-flowers](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0724-find-pivot-index) |
 | [0940-fruit-into-baskets](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0940-fruit-into-baskets) |
 | [0958-sort-array-by-parity-ii](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0958-sort-array-by-parity-ii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0409-longest-palindrome) |
+| [0605-can-place-flowers](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0605-can-place-flowers) |
 | [1448-maximum-69-number](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1448-maximum-69-number) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 ## Sorting
