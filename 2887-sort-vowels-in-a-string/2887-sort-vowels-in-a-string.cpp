@@ -35,7 +35,7 @@ public:
 };
 */
 
-
+/*
 class Solution {
 public:
     string sortVowels(string s) {
@@ -58,6 +58,36 @@ public:
                 freq[vowel[j]]--;
             }
         }
+        return s;
+    }
+};
+*/
+
+class Solution {
+public:
+    string sortVowels(string s) {
+        vector<int> count(128, 0);
+        string vowels = "AEIOUaeiou";
+        unordered_set<char> vowelSet(vowels.begin(), vowels.end());
+
+        for (char c : s) {
+            if (vowelSet.count(c)) {
+                count[c]++;
+            }
+        }
+
+        string sortedVowels = "AEIOUaeiou";
+        int idx = 0;
+        for (int i = 0; i < s.length(); ++i) {
+            if (vowelSet.count(s[i])) {
+                while (count[sortedVowels[idx]] == 0) {
+                    idx++;
+                }
+                s[i] = sortedVowels[idx];
+                count[sortedVowels[idx]]--;
+            }
+        }
+
         return s;
     }
 };
