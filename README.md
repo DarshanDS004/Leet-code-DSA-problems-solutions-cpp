@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0496-next-greater-element-i) |
 | [0940-fruit-into-baskets](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0940-fruit-into-baskets) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0409-longest-palindrome) |
 | [0953-reverse-only-letters](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0953-reverse-only-letters) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
