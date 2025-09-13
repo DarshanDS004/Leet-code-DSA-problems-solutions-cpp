@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1005-univalued-binary-tree](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1035-cousins-in-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [1005-univalued-binary-tree](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1035-cousins-in-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1005-univalued-binary-tree](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1035-cousins-in-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0662-maximum-width-of-binary-tree) |
+| [1005-univalued-binary-tree](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1035-cousins-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
