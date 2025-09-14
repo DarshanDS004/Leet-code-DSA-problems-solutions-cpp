@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0342-power-of-four) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0118-pascals-triangle) |
 ## Counting Sort
 |  |
@@ -354,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0278-first-bad-version) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
