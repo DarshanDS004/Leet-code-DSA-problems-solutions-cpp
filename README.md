@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0966-binary-subarrays-with-sum) |
 | [1217-relative-sort-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1217-relative-sort-array) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1635-number-of-good-pairs](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1635-number-of-good-pairs) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2486-most-frequent-even-element](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2486-most-frequent-even-element) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0409-longest-palindrome) |
 | [0953-reverse-only-letters](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0953-reverse-only-letters) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2887-sort-vowels-in-a-string](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2887-sort-vowels-in-a-string) |
 | [3379-score-of-a-string](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3379-score-of-a-string) |
