@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0724-find-pivot-index) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0830-largest-triangle-area](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0830-largest-triangle-area) |
 | [0940-fruit-into-baskets](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0940-fruit-into-baskets) |
 | [0958-sort-array-by-parity-ii](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0958-sort-array-by-parity-ii) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0278-first-bad-version) |
 | [0633-sum-of-square-numbers](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0633-sum-of-square-numbers) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1046-max-consecutive-ones-iii](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1046-max-consecutive-ones-iii) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Greedy
