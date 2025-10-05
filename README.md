@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0141-linked-list-cycle) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0048-rotate-image) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0496-next-greater-element-i) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0496-next-greater-element-i) |
 | [1072-next-greater-node-in-linked-list](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1072-next-greater-node-in-linked-list) |
 ## String Matching
@@ -386,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0198-house-robber) |
