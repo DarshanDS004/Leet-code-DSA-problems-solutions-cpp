@@ -8,100 +8,33 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-
- /*
 class Solution {
 public:
-    ListNode* deleteDuplicates(ListNode* head) {
-        if(head==nullptr||head->next==nullptr)
-        return head;
-        ListNode*temp=head;
-        ListNode*res=head;
-        map<int,ListNode*>mp;
-        mp[temp->val]=temp;
+vector<int>collect(ListNode* head)
+{   
+    vector<int>res;
+    ListNode* temp=head;
+    while(temp!=nullptr)
+    {  
+        if (res.empty() || temp->val != res.back())
+        res.push_back(temp->val);
         temp=temp->next;
-        while(temp!=nullptr)
-        {
-            if(mp.find(temp->val)==mp.end())
-            {
-              mp[temp->val]=temp;
-              res->next=temp;
-              res=res->next;
-
-            }
-            temp=temp->next;
-        }
-        res->next=nullptr;
-        return head;
-    
-        
     }
-};
-*/
-
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
- /*
-class Solution {
-public:
+    return res;
+}
     ListNode* deleteDuplicates(ListNode* head) {
-        if(head==nullptr||head->next==nullptr)
+        if(!head)
         return head;
-        ListNode*temp=head;
-        ListNode*res=head;
-        map<int,pair<int,ListNode*>>mp;
-        mp[temp->val].first++;
-        mp[temp->val].second=temp;
-        temp=temp->next;
-        while(temp!=nullptr)
+        vector<int>res=collect(head);
+        ListNode* node=new ListNode(0);
+        ListNode* ans=node;
+        for(int i=0;i<res.size();i++)
         {
-            if(mp[temp->val].first>=1)
-            {
-             
-              res->next=mp[temp->val].second;
-              res=res->next;
-              temp=temp->next;
-
-            }
-             mp[temp->val].first++;
-             mp[temp->val].second=temp;
-            //temp=temp->next;
+           node->next= new ListNode(res[i]);
+           node=node->next;
         }
-        res->next=nullptr;
-        return head;
-    
+        return ans->next;
+
         
-    }
-};
-
-*/
-
-class Solution {
-public:
-    ListNode* deleteDuplicates(ListNode* head) {
-        if (!head) return head;
-
-        map<int, bool> seen;
-        ListNode* curr = head;
-        seen[curr->val] = true;
-
-        while (curr->next) {
-            if (seen[curr->next->val]) {
-                // Duplicate -> skip it
-                curr->next = curr->next->next;
-            } else {
-                seen[curr->next->val] = true;
-                curr = curr->next;
-            }
-        }
-        return head;
     }
 };
