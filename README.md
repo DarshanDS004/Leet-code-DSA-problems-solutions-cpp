@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2486-most-frequent-even-element](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2486-most-frequent-even-element) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1072-next-greater-node-in-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2722-prime-in-diagonal](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2737-row-with-maximum-ones) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3644-minimum-positive-sum-subarray](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3644-minimum-positive-sum-subarray) |
