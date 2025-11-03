@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0347-top-k-frequent-elements) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1046-max-consecutive-ones-iii) |
