@@ -46,7 +46,7 @@ public:
       }
        
        for(int i=1;i<words.size();i++)
-       {
+      {
           unordered_map<char,int>frq;
           for(char c:words[i])
           {
@@ -66,7 +66,7 @@ public:
            }
 
 
-       }
+    }
 
        vector<string>res;
        
