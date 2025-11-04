@@ -106,7 +106,7 @@ ListNode *reverse_list(ListNode*head)
       ListNode*middle=find_middle( head);
       ListNode*sec_half=reverse_list(middle);
       bool res=is_same(head,sec_half);
-      reverse_list(sec_half);
+      //reverse_list(sec_half);
       return res;
 
 
