@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0940-fruit-into-baskets](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0966-binary-subarrays-with-sum) |
+| [1044-find-common-characters](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1217-relative-sort-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1370-count-number-of-nice-subarrays) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0409-longest-palindrome) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0953-reverse-only-letters](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0953-reverse-only-letters) |
+| [1044-find-common-characters](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1044-find-common-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-valid-mountain-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0978-valid-mountain-array) |
 | [1018-largest-perimeter-triangle](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1019-squares-of-a-sorted-array) |
+| [1044-find-common-characters](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1046-max-consecutive-ones-iii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1072-next-greater-node-in-linked-list) |
 | [1217-relative-sort-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1217-relative-sort-array) |
