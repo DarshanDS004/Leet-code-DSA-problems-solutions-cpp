@@ -55,9 +55,10 @@ public:
             if (count > max_count || (count == max_count && i < index)) {
                 max_count = count;
                 index = i;
-            }
+            }    
         }
 
         return {index, max_count};
     }
 };
+
