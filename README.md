@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0347-top-k-frequent-elements) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0278-first-bad-version) |
 | [0633-sum-of-square-numbers](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0633-sum-of-square-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0240-search-a-2d-matrix-ii) |
 | [1791-richest-customer-wealth](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1791-richest-customer-wealth) |
 | [2722-prime-in-diagonal](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2737-row-with-maximum-ones) |
