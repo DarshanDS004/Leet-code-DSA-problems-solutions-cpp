@@ -6,40 +6,25 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
-
- /*
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
-       map<ListNode*,bool>res;
+        
+        vector<ListNode*>arr;
         ListNode*curr=head;
+        int i=0;
         while(curr)
         {
-            if(res.find(curr)!=res.end())
+            for(ListNode* node:arr)
             {
+                if(node==curr)
                 return true;
             }
-            res[curr]=true;
+            arr.push_back(curr);
             curr=curr->next;
         }
         return false;
-    }
-    
-
-};
-*/
-class Solution {
-public:
-    bool hasCycle(ListNode *head) {
-        ListNode*slow=head;
-        ListNode*fast=head;
-        while(fast&&fast->next)
-        {
-            slow=slow->next;
-            fast=fast->next->next;
-            if(slow==fast)
-            return true;
-        }
-        return false;
+      
+        
     }
 };
