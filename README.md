@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1217-relative-sort-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1370-count-number-of-nice-subarrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1603-running-sum-of-1d-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1635-number-of-good-pairs](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1635-number-of-good-pairs) |
