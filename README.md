@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0035-search-insert-position) |
