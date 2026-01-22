@@ -29,3 +29,36 @@ public:
     return length;
     }
 };
+
+/*
+bool is_mountain(vector<int>&arr,int l,int r){
+    int i=l;
+    while(i<r && arr[i]<arr[i+1])
+    i++;
+
+    if(i==1||i==r)
+    return false;
+
+    while(i<r &&arr[i]>arr[i+1])
+    i++;
+    return i==r;
+}
+
+class Solution {
+public:
+    int longestMountain(vector<int>& arr) {
+        int n=arr.size();
+        if(n<3)
+        return 0;
+        int length=0;
+        for(int i=0;i<n;i++){
+            for(int j=i+2;j<n;j++){
+                if(is_mountain(arr,i,j)){
+                    length=max(length,j-i+1);
+                }
+            }
+        }
+        return length;
+    }
+};
+*/
