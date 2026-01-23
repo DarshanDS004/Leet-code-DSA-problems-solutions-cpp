@@ -1,11 +1,3 @@
-
-
-
-        
-   
-
-
-
 #include <vector>
 
 class Solution {
@@ -23,5 +15,4 @@ public:
                                                                                                             
                                                                                                                     // The number of elements that are not equal to val
                                                                                                                             return write_pointer;
-                                                                                                                                }
-                                                                                                                                };
+                                            
