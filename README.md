@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3637-trionic-array-i](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3637-trionic-array-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3644-minimum-positive-sum-subarray) |
 | [3778-transform-array-by-parity](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3778-transform-array-by-parity) |
 ## Binary Search
