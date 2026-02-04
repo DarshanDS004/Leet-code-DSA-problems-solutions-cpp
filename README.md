@@ -552,4 +552,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0845-longest-mountain-in-array) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
