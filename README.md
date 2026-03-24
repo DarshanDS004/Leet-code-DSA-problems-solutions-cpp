@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2486-most-frequent-even-element](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2486-most-frequent-even-element) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2102-find-the-middle-index-in-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2486-most-frequent-even-element](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2486-most-frequent-even-element) |
 | [2722-prime-in-diagonal](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2737-row-with-maximum-ones) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3644-minimum-positive-sum-subarray](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3644-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
