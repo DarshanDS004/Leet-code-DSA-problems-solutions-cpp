@@ -506,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0342-power-of-four) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Monotonic Stack
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0338-counting-bits) |
 | [0647-palindromic-substrings](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0647-palindromic-substrings) |
 | [0845-longest-mountain-in-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0845-longest-mountain-in-array) |
 ## Counting Sort
