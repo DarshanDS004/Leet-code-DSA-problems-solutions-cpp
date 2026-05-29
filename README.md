@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2544-alternating-digit-sum](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2544-alternating-digit-sum) |
 | [2722-prime-in-diagonal](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2722-prime-in-diagonal) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2737-row-with-maximum-ones](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2737-row-with-maximum-ones) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3379-transformed-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3379-transformed-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
