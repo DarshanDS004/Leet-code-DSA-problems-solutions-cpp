@@ -20,6 +20,7 @@ public:
 
 */
 
+/*
 class Solution {
 public:
     int maxArea(vector<int>& height) {
@@ -46,3 +47,29 @@ public:
      return max_area;
     }
 };
+
+*/
+
+class Solution {
+public:
+    int maxArea(vector<int>& height) {
+        int n=height.size();
+        int max_area=0;
+        int left=0,right=n-1;
+        while(left<right){
+          
+         int width= right-left;
+         int min_height=min(height[left],height[right]);
+          max_area=max(max_area,width*min_height);
+
+          if(height[left]>height[right]){
+            right--;
+          }
+          else{
+            left++;
+          }
+        }
+        return max_area;
+    }
+};
+
