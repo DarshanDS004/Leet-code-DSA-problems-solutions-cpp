@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0830-largest-triangle-area) |
 | [0845-longest-mountain-in-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0845-longest-mountain-in-array) |
+| [0867-transpose-matrix](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0867-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0932-monotonic-array) |
 | [0940-fruit-into-baskets](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0940-fruit-into-baskets) |
 | [0958-sort-array-by-parity-ii](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0958-sort-array-by-parity-ii) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0067-add-binary) |
+| [0867-transpose-matrix](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0867-transpose-matrix) |
 | [1642-water-bottles](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2058-concatenation-of-array) |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0240-search-a-2d-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0867-transpose-matrix) |
 | [1791-richest-customer-wealth](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1791-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2722-prime-in-diagonal](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2722-prime-in-diagonal) |
