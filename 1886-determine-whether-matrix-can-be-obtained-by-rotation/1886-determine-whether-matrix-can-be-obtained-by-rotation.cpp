@@ -1,3 +1,4 @@
+/*
 class Solution {
 public:
     bool findRotation(vector<vector<int>>& mat, vector<vector<int>>& target) {
@@ -28,9 +29,36 @@ public:
        
        return rotate_0||rotate_90 ||rotate_180 ||rotate_270;
 
-
-
-
         
+    }
+};
+*/
+
+class Solution {
+public:
+    void rotate_matrix(vector<vector<int>>&matrix){
+        int n=matrix.size();
+        for(int i=0;i<n;i++){
+            for(int j=i+1;j<n;j++){
+                swap(matrix[i][j],matrix[j][i]);
+            }
+        }
+
+        for(int i=0;i<n;i++){
+            reverse(matrix[i].begin(),matrix[i].end());
+        }
+    }
+
+    bool findRotation(vector<vector<int>>& mat, vector<vector<int>>& target) {
+        int n=mat.size();
+        for(int i=0;i<4;i++){
+            if(mat==target){
+                return true;
+            }
+            rotate_matrix(mat);
+
+        }
+        return false;
+
     }
 };
