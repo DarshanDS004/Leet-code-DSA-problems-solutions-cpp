@@ -22,10 +22,11 @@ public:
         int m=matrix[0].size();
 
         for( int i=0;i<n;i++){
-            if(binary_search(matrix[i],m,target)){
-                return true;
+            if(matrix[i][0]<=target && target<=matrix[i][m-1])
+            return binary_search(matrix[i],m,target);
+               
             }
-        }
+        
         return false;
         
     }
