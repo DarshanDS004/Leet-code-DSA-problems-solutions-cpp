@@ -5,7 +5,7 @@ public:
          if(n==1){
             return {0};
         }
-        vector<int>left(n,0),right(n,0);
+        vector<int>res(n);
         vector<int>prefix(n,0);
         prefix[0]=nums[0];
         for(int i=1;i<n;i++){
@@ -15,14 +15,12 @@ public:
          int sum=0;
           for(int i=0;i<n;i++){
             sum+=nums[i];
-            right[i]=val-sum;
+            int right=val-sum;
+            int left=prefix[i]-nums[i];
+            res[i]=abs(right-left);
 
           }
-         for(int i=0;i<n;i++){
-            int res=prefix[i]-nums[i];
-            left[i]=abs(right[i]-res);
-
-         }
-         return left;
+        
+         return res;
     }
 };
