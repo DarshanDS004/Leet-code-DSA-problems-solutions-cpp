@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2486-most-frequent-even-element](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2486-most-frequent-even-element) |
 | [2553-separate-the-digits-in-an-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2574-left-and-right-sum-differences) |
 | [2722-prime-in-diagonal](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2737-row-with-maximum-ones) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2102-find-the-middle-index-in-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2102-find-the-middle-index-in-array) |
+| [2574-left-and-right-sum-differences](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2574-left-and-right-sum-differences) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3644-minimum-positive-sum-subarray](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3644-minimum-positive-sum-subarray) |
