@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0342-power-of-four) |
+| [0507-perfect-number](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0633-sum-of-square-numbers) |
 | [0830-largest-triangle-area](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1018-largest-perimeter-triangle) |
