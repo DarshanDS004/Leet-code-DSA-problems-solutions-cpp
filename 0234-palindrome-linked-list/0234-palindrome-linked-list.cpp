@@ -8,112 +8,58 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-
- /*
 class Solution {
 public:
-string convert_to_str(ListNode* head)
-{
-    string res="";
-    ListNode* curr=head;
-    while(curr!=nullptr)
-    {
-        res +=to_string(curr->val);
-        curr=curr->next;
+
+  ListNode*middle(ListNode*head){
+    if(head==nullptr|| head->next==nullptr){
+        return head;
     }
-    return res;
-
-}
-
-bool is_palindrome(string str)
-{
-    int n=str.size();
-    int low=0,high=n-1;
-    while(low<=high)
-    {
-        if(str[low]!=str[high])
-        {
-            return false;
-        }
-        low++;
-        high--;
-    }
-    return true;
-}
-    bool isPalindrome(ListNode* head) {
-        string res=convert_to_str(head);
-        return is_palindrome(res);
-        
-    }
-};
-
-
-*/
-
-class Solution {
-public:
-ListNode* find_middle(ListNode* head)
-{
     ListNode*slow=head;
     ListNode*fast=head;
-    while(fast && fast->next)
-    {
+
+    while(fast->next && fast->next->next){
         slow=slow->next;
         fast=fast->next->next;
-
     }
     return slow;
-}
 
-ListNode *reverse_list(ListNode*head)
-{
-    ListNode*prev=NULL;
-    ListNode*curr=head;
-    ListNode*next=NULL;
-    while(curr)
-    {
-        next=curr->next;
-        curr->next=prev;
-        prev=curr;
-        curr=next;
+  }
+
+  ListNode*reverse(ListNode*head){
+    if(head==nullptr||head->next==nullptr)
+    return head;
+  
+   ListNode*curr=head;
+   ListNode*prev=nullptr;
+   ListNode*next=head;
+   while(curr){
+    next=curr->next;
+    curr->next=prev;
+    prev=curr;
+    curr=next;
+   }
+   return prev;
+  }
+
+    bool isPalindrome(ListNode* head) {
+
+        if(head==nullptr)
+        return true;
+        if(head->next==nullptr)
+        return true;
+        ListNode*first=head;
+        ListNode *mid=middle(head);
+        ListNode*second=reverse(mid->next);
+
+        while( second!=nullptr){
+            if(first->val!=second->val){
+                return false;
+            }
+            first=first->next;
+            second=second->next;
+        }
+      return true;
         
     }
-    return prev;
-}
-
-  bool is_same(ListNode* mid ,ListNode* sec_mid)
-  {
-    while(sec_mid)
-    {
-        if(sec_mid->val!=mid->val)
-        {
-            return false;
-        }
-        sec_mid=sec_mid->next;
-        mid=mid->next;
-
-    }
-    return true;
-  }
-
-
-
- bool isPalindrome(ListNode* head) {
-    if(! head ||! head->next)
-    {
-        return true;
-    }
-      ListNode*middle=find_middle( head);
-      ListNode*sec_half=reverse_list(middle);
-      bool res=is_same(head,sec_half);
-      //reverse_list(sec_half);
-      return res;
-
-
-   
-
-
-  }
 };
-
-
