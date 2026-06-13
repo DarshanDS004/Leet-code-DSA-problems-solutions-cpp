@@ -8,68 +8,35 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-
-
- //Brute force
- /*
 class Solution {
 public:
+    void rotate(vector<int>&arr,int k){
+        reverse(arr.begin(),arr.end());
+        reverse(arr.begin(),arr.begin()+k);
+        reverse(arr.begin()+k,arr.end());
+    }
     ListNode* rotateRight(ListNode* head, int k) {
-        if(head==nullptr||head->next==nullptr)
-        return head;
-        vector<int>res;
-        ListNode*curr=head;
-        int count=0;
-        while(curr!=nullptr)
-        {
-            res.push_back(curr->val);
-            curr=curr->next;
-            count++;
-
+        if(head==nullptr||head->next==nullptr){
+            return head;
         }
-        k=k%count;
-        reverse(res.begin(),res.end());
-        reverse(res.begin(),res.begin()+k);
-        reverse(res.begin()+k,res.end());
-        ListNode*dummy=new ListNode(0);
-        ListNode*temp=dummy;
-        for(int i=0;i<res.size();i++)
-        {
-            ListNode* node=new ListNode(res[i]);
-            temp->next=node;
+      
+        ListNode*temp=head;
+
+        vector<int>res;
+        while(temp){
+            res.push_back(temp->val);
             temp=temp->next;
         }
-        return dummy->next;
+         int n=res.size();
+         k=k%n;
+        rotate(res,k);
+        temp=head;
+        for(int i=0;i<res.size();i++){
+            temp->val=res[i];
+            temp=temp->next;
+        }
+
+        return head;
         
     }
 };
-*/
-
-
-
-
-class Solution {
-public:
-    ListNode* rotateRight(ListNode* head, int k) {
-        if(head==nullptr||head->next==nullptr)
-        return head;
-        int n=1;
-        ListNode*temp=head;
-        while(temp->next!=nullptr)
-        {
-            n++;
-            temp=temp->next;
-        }
-       k=k%n;
-        temp->next=head;
-        ListNode*newhead=head;
-        for(int i=1;i<n-k;i++)
-        {
-            newhead=newhead->next;
-        }
-      ListNode*  newtail=newhead->next;
-        newhead->next=nullptr;
-        return newtail;
-    }
-};
-
