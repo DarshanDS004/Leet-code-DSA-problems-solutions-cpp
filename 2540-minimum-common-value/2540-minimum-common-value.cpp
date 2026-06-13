@@ -23,7 +23,7 @@ public:
     }
 };
 */
-
+/*
 class Solution {
 public:
     int getCommon(vector<int>& nums1, vector<int>& nums2) {
@@ -35,6 +35,23 @@ public:
             if(st.count(x))
             return x;
         }
+        return -1;
+    }
+};
+
+*/
+
+class Solution {
+public:
+    int getCommon(vector<int>& nums1, vector<int>& nums2) {
+        int n1=nums1.size();
+        int n2=nums2.size();
+        for(int x:nums2){
+           auto it=lower_bound(nums1.begin(),nums1.end(),x);
+          if(it!=nums1.end() && *it==x){
+            return x;
+          }
+    }
         return -1;
     }
 };
