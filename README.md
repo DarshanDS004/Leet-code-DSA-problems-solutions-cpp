@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2486-most-frequent-even-element](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2486-most-frequent-even-element) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2102-find-the-middle-index-in-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2486-most-frequent-even-element](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2486-most-frequent-even-element) |
