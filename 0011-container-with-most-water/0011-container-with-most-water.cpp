@@ -1,20 +1,19 @@
-/*
 
+/*
 class Solution {
 public:
     int maxArea(vector<int>& height) {
         int n=height.size();
-        int max_area=0;
+        int max_water=0;
 
         for(int i=0;i<n;i++){
             for(int j=i+1;j<n;j++){
-                
                 int width=j-i;
                 int min_height=min(height[i],height[j]);
-                max_area=max(max_area,width*min_height);
+                max_water=max(max_water,min_height*width);
             }
         }
-        return max_area;
+        return max_water;
         
     }
 };
@@ -25,23 +24,19 @@ class Solution {
 public:
     int maxArea(vector<int>& height) {
         int n=height.size();
-        int max_area=0;
-        vector<pair<int,int>>arr;
-        for(int i=0;i<n;i++){
-            arr.push_back({height[i],i});
-        }
-        sort(arr.begin(),arr.end(),greater<pair<int,int>>());
+        int left=0,right=n-1;
+         int max_area=0;
+        while(left<=right){
+            int width=right-left;
+            int min_height=min(height[left],height[right]);
+            max_area=max(max_area,min_height*width);
+            if(height[left]<height[right]){
+                left++;
+            }
+            else{
+                right--;
+            }
 
-        int min_index=arr[0].second;
-        int max_index=arr[0].second;
-
-        for(int i=0;i<n;i++){
-            
-            int width=max(abs(arr[i].second-min_index),abs(arr[i].second-max_index));
-            int curr_area=width*arr[i].first;
-            max_area=max(max_area,curr_area);
-            min_index=min(min_index,arr[i].second);
-            max_index=max(max_index,arr[i].second);
         }
         return max_area;
     }
