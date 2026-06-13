@@ -9,7 +9,7 @@
  * };
  */
 
- 
+/* 
 class Solution {
 public:
     void rotate(vector<int>&arr,int k){
@@ -42,5 +42,39 @@ public:
         
     }
 };
+*/
 
+class Solution {
+public:
+ListNode* rotateRight(ListNode* head, int k) {
+        if(head==nullptr||head->next==nullptr||k==0){
+            return head;
+        }
 
+        ListNode*tail=head;
+        int n=1;
+        while(tail->next!=nullptr){
+            tail=tail->next;
+            n++;
+
+        }
+         
+         k=k%n;
+         if(k==0){
+            return head;
+         }
+         tail->next=head;
+
+         ListNode *newtail=head;
+         for(int i=0;i<n-k-1;i++){
+            newtail=newtail->next;
+
+         }
+        ListNode* newHead=newtail->next;
+        newtail->next=nullptr;
+
+         
+         return newHead;
+        
+    }
+};
