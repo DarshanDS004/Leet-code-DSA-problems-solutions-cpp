@@ -1,3 +1,4 @@
+/*
 class Solution {
 public:
     int getCommon(vector<int>& nums1, vector<int>& nums2) {
@@ -19,5 +20,21 @@ public:
         }
         return -1;
         
+    }
+};
+*/
+
+class Solution {
+public:
+    int getCommon(vector<int>& nums1, vector<int>& nums2) {
+        int n1=nums1.size();
+        int n2=nums2.size();
+        set<int>st(nums1.begin(),nums1.end());
+
+        for(int x:nums2){
+            if(st.count(x))
+            return x;
+        }
+        return -1;
     }
 };
