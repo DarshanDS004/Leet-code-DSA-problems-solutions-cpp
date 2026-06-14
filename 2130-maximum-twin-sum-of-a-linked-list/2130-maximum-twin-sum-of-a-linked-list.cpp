@@ -8,7 +8,9 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-class Solution {
+
+/*
+ class Solution {
 public:
     int pairSum(ListNode* head) {
         if(head==nullptr && head->next==nullptr)
@@ -29,5 +31,60 @@ public:
       } 
      return max_sum;
         
+    }
+};
+*/
+
+class Solution {
+public:
+
+   ListNode*reverse(ListNode*head){
+    if(head==nullptr ||head->next==nullptr){
+        return head;
+    }
+
+    ListNode*curr=head;
+    ListNode*prev=nullptr;
+    ListNode*next=nullptr;
+    while(curr){
+        next=curr->next;
+        curr->next=prev;
+        prev=curr;
+        curr=next;
+    }
+   return prev;
+   }
+
+   ListNode* middle(ListNode*head){
+     if(head==nullptr ||head->next ==nullptr)
+     return head;
+    
+    ListNode*slow=head;
+    ListNode*fast=head;
+
+    while(fast->next && fast->next->next){
+        slow=slow->next;
+        fast=fast->next->next;
+    }
+    return slow;
+ }
+    int pairSum(ListNode* head) {
+        if(head==nullptr || head->next==nullptr){
+            return 0;
+        }
+        ListNode*first=head;
+        ListNode*mid=middle(head);
+        ListNode*second=reverse(mid->next);
+        int sum=0;
+        int max_sum=0;
+
+        while(first && second){
+            sum=first->val+second->val;
+            max_sum=max(max_sum,sum);
+
+            first=first->next;
+            second=second->next;
+        }
+        return max_sum;
     }
 };
