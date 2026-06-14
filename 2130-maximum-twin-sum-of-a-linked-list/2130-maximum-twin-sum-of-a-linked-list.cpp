@@ -23,7 +23,7 @@ public:
         int sum=0;
         int max_sum=0;
         int n=res.size();
-      for(int i=0;i<n/2;i++){
+      for(int i=0;i<=n/2;i++){
         sum=res[i]+res[n-1-i];
         max_sum=max(max_sum,sum);
       } 
