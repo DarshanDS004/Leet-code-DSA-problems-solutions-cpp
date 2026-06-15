@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0647-palindromic-substrings) |
 | [0709-to-lower-case](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0709-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0782-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0796-rotate-string) |
 | [0953-reverse-only-letters](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0953-reverse-only-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1021-remove-outermost-parentheses) |
 | [1044-find-common-characters](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1044-find-common-characters) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0796-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
