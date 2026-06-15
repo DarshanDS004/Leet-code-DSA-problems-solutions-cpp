@@ -8,7 +8,8 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-class Solution {
+/*
+ class Solution {
 public:
     ListNode* deleteMiddle(ListNode* head) {
          if(head == nullptr || head->next == nullptr)
@@ -34,4 +35,30 @@ public:
 
       return head;
     }
+};
+*/
+
+class Solution {
+public:
+    ListNode* deleteMiddle(ListNode* head) {
+        if(head==nullptr||head->next==nullptr){
+            return nullptr;
+        }
+
+        ListNode* prev=nullptr;
+        ListNode*slow=head;
+        ListNode*fast=head;
+
+        while(fast && fast->next){
+            prev=slow;
+            slow=slow->next;
+            fast=fast->next->next;
+        }
+
+        prev->next=slow->next;
+        delete slow;
+
+        return head;
+    }
+    
 };
