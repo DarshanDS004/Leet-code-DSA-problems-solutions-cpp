@@ -8,6 +8,8 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
+ /*
 class Solution {
 public:
     void reorderList(ListNode* head) {
@@ -37,5 +39,68 @@ public:
         }
         arr[i]->next=nullptr;
     
+    }
+};
+*/
+
+ListNode* middle(ListNode*head){
+    if(head==nullptr||head->next==nullptr)
+    return head;
+
+    ListNode*slow=head;
+    ListNode*fast=head;
+    while(fast && fast->next){
+        slow=slow->next;
+        fast=fast->next->next;
+    }
+    return slow;
+}
+
+ListNode*reverse(ListNode*head){
+    if(head==nullptr||head->next==nullptr){
+        return head;
+    }
+     
+       ListNode*curr=head;
+       ListNode*prev=nullptr;
+       ListNode*next=nullptr;
+
+       while(curr){
+         next=curr->next;
+         curr->next=prev;
+         prev=curr;
+         curr=next;
+
+       }
+       return prev;
+
+}
+
+
+
+class Solution {
+public:
+    void reorderList(ListNode* head) {
+      if(head==nullptr ||head->next==nullptr)
+      return;
+
+      ListNode*mid=middle(head);
+      ListNode*second=reverse(mid->next);
+      mid->next=nullptr;
+
+
+      ListNode*first=head;
+
+      while(second){
+
+      ListNode*temp1=first->next;
+      ListNode*temp2=second->next;
+
+      first->next=second;
+      second->next=temp1;
+
+      first=temp1;
+      second=temp2;
+      }
     }
 };
