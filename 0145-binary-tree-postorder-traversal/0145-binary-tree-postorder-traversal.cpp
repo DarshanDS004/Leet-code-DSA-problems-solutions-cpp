@@ -9,6 +9,9 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
+
+
 class Solution {
 public:
     vector<int> postorderTraversal(TreeNode* root) {
@@ -21,7 +24,7 @@ public:
         vector<int>right= postorderTraversal(root->right);
         res.insert(res.end(),left.begin(),left.end());
         res.insert(res.end(),right.begin(),right.end());
-         res.push_back(root->val);
+        res.push_back(root->val);
        return res;
        
         
