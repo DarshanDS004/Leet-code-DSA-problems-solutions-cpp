@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3379-score-of-a-string](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3379-score-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3614-process-string-with-special-operations-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2553-separate-the-digits-in-an-array) |
 | [3379-transformed-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3379-transformed-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3614-process-string-with-special-operations-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3838-weighted-word-mapping) |
