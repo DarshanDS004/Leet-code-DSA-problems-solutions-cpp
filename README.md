@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0409-longest-palindrome) |
 | [0520-detect-capital](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0520-detect-capital) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1021-remove-outermost-parentheses) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0394-decode-string) |
 ## Merge Sort
 |  |
 | ------- |
