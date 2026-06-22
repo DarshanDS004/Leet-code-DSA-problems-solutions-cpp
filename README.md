@@ -588,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0347-top-k-frequent-elements) |
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0342-power-of-four) |
