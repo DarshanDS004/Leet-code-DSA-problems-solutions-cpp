@@ -517,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-sum-of-variable-length-subarrays](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3644-minimum-positive-sum-subarray](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3644-minimum-positive-sum-subarray) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Stack
 |  |
 | ------- |
@@ -697,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0647-palindromic-substrings) |
 | [0845-longest-mountain-in-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0845-longest-mountain-in-array) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Counting Sort
 |  |
 | ------- |
