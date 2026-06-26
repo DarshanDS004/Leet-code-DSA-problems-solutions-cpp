@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0338-counting-bits) |
