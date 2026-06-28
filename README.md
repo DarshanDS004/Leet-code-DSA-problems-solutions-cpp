@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1800-maximum-ascending-subarray-sum](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2048-build-array-from-permutation](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2048-build-array-from-permutation) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1448-maximum-69-number) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3689-maximum-total-subarray-value-i](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3689-maximum-total-subarray-value-i) |
 ## Sorting
 |  |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2887-sort-vowels-in-a-string](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2887-sort-vowels-in-a-string) |
