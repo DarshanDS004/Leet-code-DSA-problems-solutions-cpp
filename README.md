@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1507-reformat-date](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1507-reformat-date) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2048-build-array-from-permutation](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2058-concatenation-of-array) |
