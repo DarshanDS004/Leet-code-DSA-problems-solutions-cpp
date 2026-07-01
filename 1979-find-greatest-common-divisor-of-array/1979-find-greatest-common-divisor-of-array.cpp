@@ -11,7 +11,6 @@ public:
            b=a%b;
            a=temp;
         }
-
         return a;
 
         
