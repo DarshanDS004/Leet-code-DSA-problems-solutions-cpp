@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2574-left-and-right-sum-differences) |
 | [2722-prime-in-diagonal](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2737-row-with-maximum-ones) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3364-minimum-positive-sum-subarray) |
 | [3644-minimum-positive-sum-subarray](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3644-minimum-positive-sum-subarray) |
 ## Prefix Sum
@@ -658,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0389-find-the-difference) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Monotonic Stack
 |  |
