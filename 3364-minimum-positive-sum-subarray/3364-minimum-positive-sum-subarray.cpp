@@ -4,7 +4,8 @@ public:
         int n=nums.size();
 
         int ans=INT_MAX;
-          for(int len=l;len<=r;len++){
+
+        for(int len=l;len<=r;len++){
 
             int sum=0;
 
@@ -13,23 +14,18 @@ public:
             }
 
             if(sum>0){
-               ans=min(ans,sum);
-
+                ans=min(ans,sum);
             }
 
             for(int j=len;j<n;j++){
                 sum+=nums[j];
                 sum-=nums[j-len];
 
-                if(sum>0){
-                    ans=min(ans,sum);
-                }
+                if(sum>0)
+                ans=min(ans,sum);
             }
-          }
-          if(ans==INT_MAX)
-          return -1;
-          else
-          return ans;
+        }
+         return ans==INT_MAX ?-1:ans;
         
     }
 };
