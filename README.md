@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1840-maximum-building-height](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1840-maximum-building-height) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2288-count-operations-to-obtain-zero](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2288-count-operations-to-obtain-zero) |
 | [2544-alternating-digit-sum](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2544-alternating-digit-sum) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2048-build-array-from-permutation](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2058-concatenation-of-array) |
@@ -706,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2722-prime-in-diagonal](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2722-prime-in-diagonal) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Dynamic Programming
