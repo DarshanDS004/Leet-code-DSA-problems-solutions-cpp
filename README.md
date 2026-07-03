@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0231-power-of-two) |
+| [0292-nim-game](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0507-perfect-number) |
@@ -798,4 +799,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0387-first-unique-character-in-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
