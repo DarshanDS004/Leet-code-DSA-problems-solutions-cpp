@@ -9,25 +9,19 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-
-
-
 class Solution {
 public:
-    vector<int> postorderTraversal(TreeNode* root) {
-
-        if(root==nullptr)
-        return {};
-        vector<int>res;
-        
-        vector<int>left= postorderTraversal(root->left);
-        vector<int>right= postorderTraversal(root->right);
-        res.insert(res.end(),left.begin(),left.end());
-        res.insert(res.end(),right.begin(),right.end());
+      void dfs(TreeNode* root,vector<int>&res){
+        if(!root)
+        return;
+        dfs(root->left,res);
+        dfs(root->right,res);
         res.push_back(root->val);
-       return res;
-       
-        
+      }
+    vector<int> postorderTraversal(TreeNode* root) {
+        vector<int>res;
+        dfs(root,res);
+        return res;
         
     }
 };
