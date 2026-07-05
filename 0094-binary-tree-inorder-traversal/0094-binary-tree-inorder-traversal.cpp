@@ -9,29 +9,19 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-
 class Solution {
 public:
+
+    void dfs(TreeNode* root ,vector<int>&res){
+        if(!root)
+        return;
+        dfs(root->left,res);
+        res.push_back(root->val);
+        dfs(root->right,res);
+    }
     vector<int> inorderTraversal(TreeNode* root) {
-     if(root==nullptr)
-     return {};
-     stack<TreeNode*>st;
-     TreeNode*curr=root;
-     vector<int>res;
-     while(!st.empty() || curr!=nullptr){
-        
-        while(curr!=nullptr){
-            st.push(curr);
-            curr=curr->left;
-        }
-        curr=st.top();
-        st.pop();
-        res.push_back(curr->val);
-
-        curr=curr->right;
-
-     }
-     return res;
-        
+        vector<int>res;
+         dfs(root,res);
+         return res;
     }
 };
