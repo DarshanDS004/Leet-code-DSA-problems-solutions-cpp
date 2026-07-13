@@ -793,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0845-longest-mountain-in-array) |
+| [1291-sequential-digits](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1952-three-divisors) |
 ## Database
 |  |
