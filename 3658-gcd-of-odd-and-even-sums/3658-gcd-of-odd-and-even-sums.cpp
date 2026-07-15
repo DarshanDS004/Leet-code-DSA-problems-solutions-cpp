@@ -1,5 +1,15 @@
 class Solution {
 public:
+
+    int gcd(int a, int b){
+        while(b!=0){
+            int temp=b;
+            b=a%b;
+            a=temp;
+        }
+        return a;
+        
+    }
     int gcdOfOddEvenSums(int n) {
         int odd=0;
         int even=0;
@@ -7,7 +17,8 @@ public:
             odd+=2*i+1;
             even+=2*i+2;
         }
-        return gcd(odd,even);
+        int ans= gcd(odd,even);
+        return ans;
         
     }
 };
