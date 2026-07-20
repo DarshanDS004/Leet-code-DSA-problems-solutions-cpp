@@ -5,7 +5,7 @@ public:
         int min_so_far=prices[0];
         int max_profit=0;
 
-        for(int i=0;i<n;i++){
+        for(int i=1;i<n;i++){
             if(prices[i]<min_so_far){
                 min_so_far=prices[i]; 
             }
