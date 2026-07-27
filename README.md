@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1370-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1480-running-sum-of-1d-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1603-running-sum-of-1d-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1603-running-sum-of-1d-array) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1331-rank-transform-of-an-array) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1833-maximum-ice-cream-bars) |
@@ -662,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0912-sort-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
