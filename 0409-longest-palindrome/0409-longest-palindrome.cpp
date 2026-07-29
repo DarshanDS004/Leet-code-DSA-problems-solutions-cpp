@@ -1,3 +1,5 @@
+
+
 class Solution {
 public:
     int longestPalindrome(string s) {
@@ -24,3 +26,4 @@ public:
         return ans;
     }
 };
+
