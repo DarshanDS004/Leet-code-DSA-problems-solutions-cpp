@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0349-intersection-of-two-arrays) |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0966-binary-subarrays-with-sum) |
@@ -854,4 +856,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0257-binary-tree-paths) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
