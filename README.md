@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1668-maximum-repeating-substring](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1668-maximum-repeating-substring) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2124-check-if-all-as-appears-before-all-bs) |
