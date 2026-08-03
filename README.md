@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1446-consecutive-characters](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1446-consecutive-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1507-reformat-date](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1507-reformat-date) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1636-number-of-substrings-with-only-1s) |
