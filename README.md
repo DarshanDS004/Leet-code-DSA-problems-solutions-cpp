@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2722-prime-in-diagonal](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2722-prime-in-diagonal) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3536-maximum-product-of-two-digits) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -819,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0845-longest-mountain-in-array) |
 | [1291-sequential-digits](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1952-three-divisors) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Database
 |  |
 | ------- |
