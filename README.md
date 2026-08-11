@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2486-most-frequent-even-element](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2486-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2540-minimum-common-value) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2574-left-and-right-sum-differences) |
 | [2722-prime-in-diagonal](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2737-row-with-maximum-ones) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2887-sort-vowels-in-a-string](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2887-sort-vowels-in-a-string) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3731-find-missing-elements) |
 | [3778-transform-array-by-parity](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3778-transform-array-by-parity) |
