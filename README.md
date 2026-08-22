@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3536-maximum-product-of-two-digits) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
