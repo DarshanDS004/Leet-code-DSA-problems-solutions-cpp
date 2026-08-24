@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3945-digit-frequency-score](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3830-find-closest-person) |
+| [3945-digit-frequency-score](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
