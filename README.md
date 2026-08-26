@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2810-faulty-keyboard) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2887-sort-vowels-in-a-string](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2887-sort-vowels-in-a-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3364-minimum-positive-sum-subarray) |
