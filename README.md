@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1512-number-of-good-pairs](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1512-number-of-good-pairs) |
 | [1635-number-of-good-pairs](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1448-maximum-69-number) |
+| [1512-number-of-good-pairs](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1512-number-of-good-pairs) |
 | [1635-number-of-good-pairs](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1635-number-of-good-pairs) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1642-water-bottles) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1512-number-of-good-pairs) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1603-running-sum-of-1d-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -772,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1189-maximum-number-of-balloons) |
+| [1512-number-of-good-pairs](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1512-number-of-good-pairs) |
 | [1635-number-of-good-pairs](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1635-number-of-good-pairs) |
 | [2486-most-frequent-even-element](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2486-most-frequent-even-element) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3242-count-elements-with-maximum-frequency) |
