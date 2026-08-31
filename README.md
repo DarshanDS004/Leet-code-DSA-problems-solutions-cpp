@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1635-number-of-good-pairs](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1635-number-of-good-pairs) |
+| [1672-richest-customer-wealth](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1672-richest-customer-wealth) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1732-find-the-highest-altitude) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -786,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0867-transpose-matrix) |
+| [1672-richest-customer-wealth](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1672-richest-customer-wealth) |
 | [1791-richest-customer-wealth](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1791-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2722-prime-in-diagonal](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2722-prime-in-diagonal) |
