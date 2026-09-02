@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3830-find-closest-person) |
+| [3875-construct-uniform-parity-array-i](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3875-construct-uniform-parity-array-i) |
 | [3945-digit-frequency-score](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3778-transform-array-by-parity](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3778-transform-array-by-parity) |
 | [3838-weighted-word-mapping](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3838-weighted-word-mapping) |
 | [3866-first-unique-even-element](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3866-first-unique-even-element) |
+| [3875-construct-uniform-parity-array-i](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
