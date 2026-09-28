@@ -930,4 +930,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0918-maximum-sum-circular-subarray) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
