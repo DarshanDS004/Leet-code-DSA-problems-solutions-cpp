@@ -892,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0596-classes-with-at-least-5-students) |
+| [1729-find-followers-count](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1729-find-followers-count) |
 ## Radix Sort
 |  |
 | ------- |
