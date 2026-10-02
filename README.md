@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0966-binary-subarrays-with-sum) |
 | [1044-find-common-characters](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1044-find-common-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1189-maximum-number-of-balloons) |
+| [1207-unique-number-of-occurrences](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1207-unique-number-of-occurrences) |
 | [1217-relative-sort-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1217-relative-sort-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1331-rank-transform-of-an-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1331-rank-transform-of-an-array) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1046-max-consecutive-ones-iii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1072-next-greater-node-in-linked-list) |
+| [1207-unique-number-of-occurrences](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1207-unique-number-of-occurrences) |
 | [1217-relative-sort-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1217-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1331-rank-transform-of-an-array) |
