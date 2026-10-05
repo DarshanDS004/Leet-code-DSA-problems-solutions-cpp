@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0409-longest-palindrome) |
 | [0520-detect-capital](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0520-detect-capital) |
+| [0541-reverse-string-ii](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0541-reverse-string-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0647-palindromic-substrings](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0647-palindromic-substrings) |
 | [0709-to-lower-case](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0709-to-lower-case) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0647-palindromic-substrings) |
 | [0845-longest-mountain-in-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0845-longest-mountain-in-array) |
