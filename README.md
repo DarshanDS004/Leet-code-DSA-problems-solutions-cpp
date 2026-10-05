@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3884-first-matching-character-from-both-ends](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3884-first-matching-character-from-both-ends) |
 | [4006-count-valid-prefixes](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/4006-count-valid-prefixes) |
 ## Linked List
 |  |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2540-minimum-common-value) |
+| [3884-first-matching-character-from-both-ends](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3884-first-matching-character-from-both-ends) |
 ## Array
 |  |
 | ------- |
