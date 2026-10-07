@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3884-first-matching-character-from-both-ends](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3884-first-matching-character-from-both-ends) |
 | [4006-count-valid-prefixes](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/4006-count-valid-prefixes) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3364-minimum-positive-sum-subarray) |
 | [3644-minimum-positive-sum-subarray](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3644-minimum-positive-sum-subarray) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -886,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1952-three-divisors) |
 | [1995-count-special-quadruplets](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1995-count-special-quadruplets) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3345-smallest-divisible-digit-product-i) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Database
 |  |
 | ------- |
