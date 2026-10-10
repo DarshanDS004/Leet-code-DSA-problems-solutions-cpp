@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0541-reverse-string-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0647-palindromic-substrings](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0647-palindromic-substrings) |
+| [0680-valid-palindrome-ii](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0709-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0782-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0796-rotate-string) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0647-palindromic-substrings) |
+| [0680-valid-palindrome-ii](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0680-valid-palindrome-ii) |
 | [0845-longest-mountain-in-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0917-reverse-only-letters) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0605-can-place-flowers) |
+| [0680-valid-palindrome-ii](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0680-valid-palindrome-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1448-maximum-69-number) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
