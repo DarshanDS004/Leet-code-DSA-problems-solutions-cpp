@@ -1,9 +1,9 @@
 class Solution {
-    public int expand(String s,int l,int r){
+    public int expand (String s,int l,int r){
         int n=s.length();
         int count=0;
-        while(l>=0 && r< n && s.charAt(l)==s.charAt(r)){
-            count++;
+        while(l>=0 && r<n && s.charAt(l)==s.charAt(r)){
+        count++;
             l--;
             r++;
         }
@@ -12,11 +12,11 @@ class Solution {
     }
     public int countSubstrings(String s) {
         int n=s.length();
-        int res=0;
-        for(int i=0;i<n;i++){
-            res+=expand(s,i,i);
-            res+=expand(s,i,i+1);
+        int count=0;
+        for (int i=0;i<n;i++){
+            count+=expand(s,i,i);
+            count+=expand(s,i,i+1);
         }
-        return res;
+        return count;
     }
 }
