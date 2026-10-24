@@ -4,18 +4,23 @@ public:
         int n=nums.size();
         unordered_map<int,int>mp;
         int count=0;
+
         int sum=0;
         for(int i=0;i<n;i++){
-             sum+=nums[i];
+            sum+=nums[i];
 
-             if(sum==k)
-             count++;
-             if(mp.count(sum-k)){
+            if(sum==k){
+                count++;
+            }
+
+            if(mp.find(sum-k)!=mp.end()){
                 count+=mp[sum-k];
-             }
-             mp[sum]++;
+
+            }
+            mp[sum]++;
         }
         return count;
+
         
     }
 };
