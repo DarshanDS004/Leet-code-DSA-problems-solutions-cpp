@@ -5,6 +5,7 @@ class Solution {
 
         int sum=0;
         int count=0;
+        //mp.put(0,1);
         for(int i=0;i<n;i++){
             sum+=nums[i];
             if(sum==k)
