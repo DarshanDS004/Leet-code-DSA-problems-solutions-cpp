@@ -10,31 +10,20 @@
  */
 class Solution {
 public:
-vector<int>collect(ListNode* head)
-{   
-    vector<int>res;
-    ListNode* temp=head;
-    while(temp!=nullptr)
-    {  
-        if (res.empty() || temp->val != res.back())
-        res.push_back(temp->val);
-        temp=temp->next;
-    }
-    return res;
-}
     ListNode* deleteDuplicates(ListNode* head) {
-        if(!head)
-        return head;
-        vector<int>res=collect(head);
-        ListNode* node=new ListNode(0);
-        ListNode* ans=node;
-        for(int i=0;i<res.size();i++)
-        {
-           node->next= new ListNode(res[i]);
-           node=node->next;
-        }
-        return ans->next;
 
+       ListNode*curr=head;
+       while(curr!=nullptr && curr->next !=nullptr){
+        if(curr->val==curr->next->val){
+        ListNode* duplicate=curr->next;
+        curr->next=duplicate->next;
+        delete duplicate;
+        }
+        else{
+            curr=curr->next;
+        }
+       }
+       return head;
         
     }
 };
