@@ -21,15 +21,12 @@ public:
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
-
-        set<int> st(nums.begin(), nums.end());
-
-        int i = 0;
-
-        for(auto x : st){
-            nums[i++] = x;
+        int j=0;
+        for(int i=1;i<nums.size();i++){
+            if(nums[i]!=nums[j]){
+                nums[++j]=nums[i];
+            }
         }
-
-        return st.size();
+        return j+1;
     }
 };
