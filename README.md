@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0989-add-to-array-form-of-integer) |
 | [1018-largest-perimeter-triangle](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1018-largest-perimeter-triangle) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1370-count-number-of-nice-subarrays) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1207-unique-number-of-occurrences) |
 | [1217-relative-sort-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1217-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1288-remove-covered-intervals) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1331-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1370-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1390-four-divisors) |
