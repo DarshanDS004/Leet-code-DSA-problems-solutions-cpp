@@ -10,25 +10,62 @@
  */
 class Solution {
 public:
-    ListNode* sortList(ListNode* head) {
-        if(head==nullptr)
-        return nullptr;
-        vector<int>res;
-        ListNode*temp=head;
-        while(temp)
-        {
-            res.push_back(temp->val);
-            temp=temp->next;
-        }
-        sort(res.begin(),res.end());
+   ListNode*merge(ListNode*a,ListNode*b){
+     if(a==nullptr)
+     return b;
 
-        ListNode*dummy=new ListNode(0);
-        ListNode*curr=dummy;
-        for(int i=0;i<res.size();i++)
-        {
-            curr->next=new ListNode(res[i]);
-            curr=curr->next;
+      if(b==nullptr)
+      return a;
+      ListNode*tail=new ListNode(0);
+      ListNode*dummy=tail;
+
+      while(a!=nullptr && b!=nullptr){
+             if(a->val>=b->val){
+                dummy->next=b;
+                b=b->next;
+                dummy=dummy->next;
+             }
+             else{
+                dummy->next=a;
+                dummy=dummy->next;
+                a=a->next;
+             } 
+      }
+
+      while(a!=nullptr){
+        dummy->next=a;
+        a=a->next;
+        dummy=dummy->next;
+      }
+
+      while(b!=nullptr){
+        dummy->next=b;
+        b=b->next;
+        dummy=dummy->next;
+      }
+      return tail->next;
+   }
+    ListNode* sortList(ListNode* head) {
+        if(head==nullptr || head->next==nullptr){
+            return head;
         }
-        return dummy->next;
+
+        ListNode*prev=nullptr;
+         ListNode*slow=head;
+          ListNode*fast=head;
+          while(fast!=nullptr && fast->next!=nullptr){
+            prev=slow;
+            slow=slow->next;
+            fast=fast->next->next;
+          }
+
+          prev->next=nullptr;
+
+          ListNode*left=sortList(head);
+          ListNode*right=sortList(slow);
+
+          return merge(left,right);
+        
+        
     }
 };
