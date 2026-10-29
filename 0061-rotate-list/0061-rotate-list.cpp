@@ -44,6 +44,7 @@ public:
 };
 */
 
+/*  02
 class Solution {
 public:
 ListNode* rotateRight(ListNode* head, int k) {
@@ -76,5 +77,66 @@ ListNode* rotateRight(ListNode* head, int k) {
          
          return newHead;
         
+    }
+};
+*/
+
+/*
+
+class Solution {
+public:
+    ListNode* rotateRight(ListNode* head, int k) {
+        if (head == nullptr || head->next == nullptr)
+            return head;
+
+        while (k > 0) {
+            ListNode* curr = head;
+
+            while (curr->next->next != nullptr)
+                curr = curr->next;
+
+            ListNode* last = curr->next;
+            curr->next = nullptr;
+
+            last->next = head;
+            head = last;
+
+            k--;
+        }
+
+        return head;
+    }
+};
+
+*/
+
+class Solution {
+public:
+    ListNode* rotateRight(ListNode* head, int k) {
+        if (head == nullptr || head->next == nullptr)
+            return head;
+         int count=1;
+         ListNode* temp=head;
+         while(temp->next!=nullptr){
+            count++;
+            temp=temp->next;
+
+         }
+
+         k%=count;
+
+         int len=count-k-1;
+
+          temp->next=head;
+
+           ListNode* new_tail=head;
+         while(len--){
+            new_tail=new_tail->next;
+
+         }
+         ListNode*new_head=new_tail->next;
+          new_tail->next=nullptr;
+
+         return new_head;
     }
 };
