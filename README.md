@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0697-degree-of-an-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0697-degree-of-an-array) |
+| [0771-jewels-and-stones](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0771-jewels-and-stones) |
 | [0782-jewels-and-stones](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0782-jewels-and-stones) |
 | [0940-fruit-into-baskets](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0966-binary-subarrays-with-sum) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0771-jewels-and-stones) |
 | [0782-jewels-and-stones](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0782-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0917-reverse-only-letters) |
