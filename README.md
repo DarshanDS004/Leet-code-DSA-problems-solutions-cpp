@@ -993,4 +993,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0005-longest-palindromic-substring) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
