@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0292-nim-game) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0217-contains-duplicate) |
@@ -851,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -913,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0204-count-primes) |
 | [0845-longest-mountain-in-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0845-longest-mountain-in-array) |
 | [1291-sequential-digits](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1952-three-divisors) |
@@ -1000,5 +1004,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sieve Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/1952-three-divisors) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
