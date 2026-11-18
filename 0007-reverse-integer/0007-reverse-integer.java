@@ -1,21 +1,23 @@
 class Solution {
-    public long reverse_digit(int n){
-        long ans=0;
-        while(n!=0){
-            int digit=n%10;
-            ans=ans*10+digit;
-            n/=10;
-        }
-        return ans;
-    }
     public int reverse(int x) {
        
+        boolean negative=x<0;
+        String s=String.valueOf(Math.abs((long)x));
 
-         long res=reverse_digit(x);
-        if(res>Integer.MAX_VALUE ||res<Integer.MIN_VALUE)
-        return 0;
+        StringBuilder sb=new StringBuilder(s);
+        sb.reverse();
+
+        long res=Long.parseLong(sb.toString());
+         
+        if(negative){
+            res=-res;
+        }
+          if (res < Integer.MIN_VALUE || res > Integer.MAX_VALUE) {
+            return 0;
+        }
+
+      return (int)res;
         
-       return (int)res;
         
     }
 }
