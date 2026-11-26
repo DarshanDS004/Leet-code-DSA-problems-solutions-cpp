@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3360-stone-removal-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3536-maximum-product-of-two-digits) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -736,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2288-count-operations-to-obtain-zero) |
 | [2553-separate-the-digits-in-an-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2553-separate-the-digits-in-an-array) |
 | [2810-faulty-keyboard](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/2810-faulty-keyboard) |
+| [3360-stone-removal-game](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3360-stone-removal-game) |
 | [3379-transformed-array](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3379-transformed-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/DarshanDS004/Leet-code-DSA-problems-solutions-cpp/tree/master/3614-process-string-with-special-operations-ii) |
