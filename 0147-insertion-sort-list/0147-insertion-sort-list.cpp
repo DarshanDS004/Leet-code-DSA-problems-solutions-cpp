@@ -17,10 +17,11 @@ public:
 
         ListNode*  dummy =new ListNode(0);
         ListNode*curr=head;
+        ListNode*prev=dummy;
 
         while(curr!=nullptr){
             ListNode*nextnode=curr->next;
-            ListNode*prev=dummy;
+            prev=dummy;
 
             while(prev->next!=nullptr && prev->next->val<=curr->val){
                 prev=prev->next;
